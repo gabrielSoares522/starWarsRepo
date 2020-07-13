@@ -1,3 +1,4 @@
 luke skywalker
 obi wan kenobi
-darth vader
+leia organa
+han solo
