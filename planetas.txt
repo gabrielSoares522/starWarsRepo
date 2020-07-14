@@ -2,3 +2,4 @@ coruscant
 tatooine
 naboo
 hoth
+geonosis
