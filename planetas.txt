@@ -3,3 +3,4 @@ tatooine
 naboo
 hoth
 endor
+geonosis
