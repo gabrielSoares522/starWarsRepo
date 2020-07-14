@@ -4,3 +4,4 @@ naboo
 hoth
 endor
 geonosis
+kamino
