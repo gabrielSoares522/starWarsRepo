@@ -4,6 +4,3 @@ naboo
 hoth
 endor
 geonosis
-marte
-jupiter
-saturno
