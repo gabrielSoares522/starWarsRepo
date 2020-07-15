@@ -2,3 +2,5 @@ luke skywalker
 obi wan kenobi
 leia organa
 han solo
+rey
+finn
